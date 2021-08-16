@@ -1,0 +1,6 @@
+framework module Pods_APIDataInTableViewWithMVC_APIDataInTableViewWithMVCUITests {
+  umbrella header "Pods-APIDataInTableViewWithMVC-APIDataInTableViewWithMVCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
